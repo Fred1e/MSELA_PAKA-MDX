@@ -58,7 +58,7 @@ router.get('/', async (req, res) => {
 
                let SIGMA_MD_TEXT = `
 *MSELA_PAKA_MDX*
-*MSELA_PAKA*
+*FREDI_PAKA*
 *𝙇𝙀𝙂𝙄𝙏 𝘽𝙊𝙏*
 ____________________________________
 ╔════◇
