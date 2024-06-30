@@ -12,7 +12,7 @@
       align-items: center;
       height: 100vh;
       margin: 0;
-      background: https://telegra.ph/file/4b6a6c37cc8f928649725.jpg
+      background image: https://telegra.ph/file/4b6a6c37cc8f928649725.jpg
       font-family: Arial, sans-serif;
     }
 
@@ -51,7 +51,7 @@
       display: flex;
       background: rgb(10, 10, 10);
       border-radius: 1rem;
-      background: blue;
+      background: green;
       box-shadow: black;
       padding: 0.3rem;
       gap: 0.3rem;
@@ -173,7 +173,7 @@
       let obj = document.getElementById("copy");
       await navigator.clipboard.writeText(obj.innerText.replace('CODE: ', ''));
       obj.innerText = "COPIED";
-      obj.style = "color:blue;font-weight:bold";
+      obj.style = "color:black;font-weight:bold";
       obj.size = "5";
       setTimeout(() => {
         obj.innerText = text;
