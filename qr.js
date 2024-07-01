@@ -77,6 +77,8 @@ ____________________________________
 
 ║ ❒ 𝐖𝐚𝐂𝐡𝐚𝐧𝐧𝐞𝐥: _https://whatsapp.com/channel/0029VafeCKHKmCPMtW3bFA08_
 
+║ ❒ OWNER 2: _https://wa.link/6yzwki
+
 ║ 
 ╚════════════════════╝ 
  *MSELA_PAKA_MD*
